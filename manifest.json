@@ -3,7 +3,7 @@
     "name": "Vinted Message Tags",
     "version": "1.0",
     "description": "Add colored tags to messages on Vinted.",
-    "permissions": ["activeTab"],
+    "permissions": ["storage", "activeTab"],
     "action": {
         // "default_popup": "popup.html",
         "default_icon": {
