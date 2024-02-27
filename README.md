@@ -1,4 +1,4 @@
-![Tagged Logo](https://raw.githubusercontent.com/NiccoloGranieri/Tagged/main/images/header.png)
+![Tagged Logo](images/header.png)
 
 <h2 align="center">Google Chrome extension for Vinted chat tagging</h2>
 
@@ -14,7 +14,7 @@ Have I measured this coat?
 
 With Tagged, once you have tagged the chats, you won't have to ask these questions anymore!
 
-![Tagged Screenshot](https://raw.githubusercontent.com/NiccoloGranieri/Tagged/main/images/screenshot.png)
+![Tagged Screenshot](images/screenshot.png)
 
 ### Roadmap
 
